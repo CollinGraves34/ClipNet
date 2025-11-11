@@ -1,6 +1,0 @@
-@echo off
-color a
-echo Starting...
-python ./serve_file.py ./files/index.html --port 8080
-echo Ended...
-pause>nul
